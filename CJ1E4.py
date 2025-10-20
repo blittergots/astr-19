@@ -20,7 +20,7 @@ class Favorite_Animal:
 		print(f"furry?: {self.furry}")
 
 def main():
-	American_Woodcock = Favorite_Animal(16.5, "short and stocky", "two", "short and fluffy", "feathery")
+	American_Woodcock = Favorite_Animal(16.5, "1.7", "2", "True", "True")
 	American_Woodcock.describe()
 
 if __name__=="__main__":
